@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+  }
+  
+  .navigation {
+    width: 200px; /* Adjust width as needed */
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    background-color: #f1f1f1; /* Adjust background color as needed */
+    overflow-y: auto;
+  }
+  
+  .content {
+    margin-left: 200px; /* Same as navigation width */
+    padding: 20px; /* Adjust padding as needed */
+    overflow-y: auto;
+  }
+  
