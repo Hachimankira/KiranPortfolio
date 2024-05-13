@@ -510,6 +510,10 @@ button:focus {
   border-radius: 10px !important;
 }
 
+.rounded-circle {
+  border-radius: 50% !important;
+}
+
 .blog-img {
   padding: 0px !important;
   opacity: 0.8 !important;

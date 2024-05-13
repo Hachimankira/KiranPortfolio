@@ -2,13 +2,10 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.png";
-import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
-import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
-
+import bikehub from "../../Assets/Projects/bikehub.png";
+import lms from "../../Assets/Projects/lms.png";
+import recipe from "../../Assets/Projects/recipe.png";
+import registration from "../../Assets/Projects/registration.png";
 function Projects() {
   return (
     <Container fluid className="project-section">
@@ -23,7 +20,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={bikehub}
               isBlog={false}
               title="BikeHub"
               description="An Ecommerce website where user can buy and sell second hand bikes made with laravel and blade."
@@ -34,7 +31,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={registration}
               isBlog={false}
               title="Civil Regestration System"
               description="An egovernance website for registration of birth, death, national id card and voter card made with laravel and blade."
@@ -45,7 +42,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
+              imgPath={recipe}
               isBlog={false}
               title="Recipe App"
               description="Recipe App made with Mern stack where user can add, delete, update and view recipes."
@@ -56,7 +53,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={leaf}
+              imgPath={lms}
               isBlog={false}
               title="CAB Tech"
               description="Learning Managemnt System for a college where students can view their courses, assignments, grades and teachers can add, delete, update courses and assignments."
