@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Kiran Shrestha </span>
             from <span className="purple"> Kathmandu, Nepal</span>
             <br />
-            I am currently learning web development with MERN Stack.
+            I am currently learning web development with <span className="purple">MERN Stack</span> and exploring my ways into <span className="purple">dotnet.</span>
             <br />
             I am currently in fourth year of BSc.CSIT at <span className="purple">Tribhuvan University</span>.
             <br />
@@ -27,6 +27,9 @@ function AboutCard() {
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> Writing Blogs
             </li>
           </ul>
 
