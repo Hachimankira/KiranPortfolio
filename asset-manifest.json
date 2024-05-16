@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/KiranPortfolio/static/css/main.4c0923e6.css",
-    "main.js": "/KiranPortfolio/static/js/main.c838376f.js",
-    "static/js/415.4d6acbeb.chunk.js": "/KiranPortfolio/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/KiranPortfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/Code.png": "/KiranPortfolio/static/media/Code.b485fd8a769d1ea1cf9e.png",
-    "static/media/recipe.png": "/KiranPortfolio/static/media/recipe.8f4f02e7ded6f0e91853.png",
-    "static/media/hachiblog.png": "/KiranPortfolio/static/media/hachiblog.c9e6f5cb2edb090203ae.png",
-    "static/media/bikehub.png": "/KiranPortfolio/static/media/bikehub.5ea31f8d777ed6c99ea8.png",
-    "static/media/me1.jpg": "/KiranPortfolio/static/media/me1.8655b86abfe30fa37a3a.jpg",
-    "static/media/registration.png": "/KiranPortfolio/static/media/registration.b18a538807b17babac8a.png",
-    "static/media/home-main.svg": "/KiranPortfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/KiranPortfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/lms.png": "/KiranPortfolio/static/media/lms.bc126cc87bfcb4eff52a.png",
-    "static/media/resumeKiran.pdf": "/KiranPortfolio/static/media/resumeKiran.b77c4068584a47738100.pdf",
-    "static/media/home-bg.jpg": "/KiranPortfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/pre.svg": "/KiranPortfolio/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/KiranPortfolio/index.html",
-    "main.4c0923e6.css.map": "/KiranPortfolio/static/css/main.4c0923e6.css.map",
-    "main.c838376f.js.map": "/KiranPortfolio/static/js/main.c838376f.js.map",
-    "415.4d6acbeb.chunk.js.map": "/KiranPortfolio/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/KiranPortfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/static/css/main.3379e8aa.css",
+    "main.js": "/static/js/main.fe2e373c.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Code.png": "/static/media/Code.b485fd8a769d1ea1cf9e.png",
+    "static/media/recipe.png": "/static/media/recipe.8f4f02e7ded6f0e91853.png",
+    "static/media/hachiblog.png": "/static/media/hachiblog.c9e6f5cb2edb090203ae.png",
+    "static/media/bikehub.png": "/static/media/bikehub.5ea31f8d777ed6c99ea8.png",
+    "static/media/me1.jpg": "/static/media/me1.8655b86abfe30fa37a3a.jpg",
+    "static/media/registration.png": "/static/media/registration.b18a538807b17babac8a.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/lms.png": "/static/media/lms.bc126cc87bfcb4eff52a.png",
+    "static/media/resumeKiran.pdf": "/static/media/resumeKiran.b77c4068584a47738100.pdf",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.3379e8aa.css.map": "/static/css/main.3379e8aa.css.map",
+    "main.fe2e373c.js.map": "/static/js/main.fe2e373c.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c0923e6.css",
-    "static/js/main.c838376f.js"
+    "static/css/main.3379e8aa.css",
+    "static/js/main.fe2e373c.js"
   ]
 }
